@@ -19,7 +19,7 @@
   ],
   "author": "Arian Pradana",
   "license": "MIT",
-  "homepage": "https://git@github.com:arianraptor/basspower.git#readme",
+  "homepage": "https://github.com/arianraptor/basspower#basspower",
   "devDependencies": {
     "autoprefixer": "^6.3.6",
     "browser-sync": "^2.12.8",
